@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**rahulktd/rahulktd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello, I'm Rahul!
 
-Here are some ideas to get you started:
+🎓 Recent graduate with a passion for web development, specializing in Python and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I have hands-on experience in building web applications using Python and Django framework. Currently exploring various frontend technologies to enhance my skills.
+
+🌱 Constantly learning and improving my coding abilities to stay up-to-date with the latest industry trends and best practices.
+
+📚 Always eager to expand my knowledge and open to new challenges. Currently seeking opportunities to contribute to meaningful projects and gain real-world experience.
+
+💬 Feel free to reach out to me if you have any questions, collaboration opportunities, or just want to chat about technology!
+
+📫 You can find me on LinkedIn https://www.linkedin.com/in/rahul-k-p-9aaa32236/ and explore my projects on GitHub https://github.com/rahulktd.
+
+Looking forward to connecting with fellow developers and creating amazing software together! 🚀
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahulktd)  
