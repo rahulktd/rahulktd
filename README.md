@@ -16,4 +16,9 @@
 
 Looking forward to connecting with fellow developers and creating amazing software together! 🚀
 
+<a href="mailto:rahulkpktd@gmail.com">
+  <img align="left" width=70px src="https://img.icons8.com/clouds/100/000000/gmail.png"/>
+</a>
+
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahulktd)  
